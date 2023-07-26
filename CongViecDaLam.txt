@@ -1,0 +1,7 @@
+Họ và tên: Đặng Hoàng Phúc
+Lớp: IT17305
+Nhóm: 4
+MSSV: PC04368
+
+Công việc đã làm: Form thương hiệu, thiết kế giao diện, test phầm mềm, viết unit test,
+hỗ trợ làm file Word
